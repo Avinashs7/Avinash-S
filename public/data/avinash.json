@@ -1,0 +1,105 @@
+{
+    "project_name":"Portfolio",
+    "name":"Avinash S",
+    "github_url":"https://github.com/Avinashs7",
+    "linkedin_url":"https://www.linkedin.com/in/avinash-s007/",
+    "gmail":"07avinash.s@gmail.com",
+    "resume":"1-Qog1Y8itlbx4zEjriyR6gmg3PQqZ1T6",
+    "tech_stack":["C/C++","Java","JavaScript","TypeScript","Python","Node","React","Express","Django","MySQL","MongoDB","AWS","Docker"],
+    "experience":[
+        {
+            "company":"HacktoberFest",
+            "role":"Contributor",
+            "time":"Oct 2024 - Nov 2024",
+            "tech_stack":["Java","React","Node","Express","MongoDB","Django"]
+        },
+        {
+            "company":"Toyota Industries engine Pvt Ltd",
+            "role":"Backend Intern",
+            "time":"Nov 2023 - Mar 2024",
+            "tech_stack":["React","Node","Express","Postgres","Python","Flask"]
+        }
+    ],
+    "projects":[
+        {
+            "name":"Krishi Vimarsha",
+            "description":[
+              "Developed a smart farming platform using React.js, Node.js, and Flask, integrated with IoT sensors to monitor soil conditions (NPK levels, humidity, rainfall, temperature) and predict optimal crops for 22 different crops.",
+            "Utilized Random Forest algorithm to recommend crops that improve soil fertility and maximize yield based on real-time data.",
+            "Enabled farmer collaboration through a community feature for advice-sharing, addressing challenges and fostering knowledge exchange."
+            ],
+            "time":"Sep 2024 - Dec 2024",
+            "tech_stack":[
+                "React","Node","Python","Flask","Express","Mongo","Machine Learning"
+            ],
+            "thumbnail":"",
+            "code":"https://github.com/Krishi-Vimarsha/Krishi-Vimarsha",
+            "demo":""
+        },
+        {
+            "name":"Shiksha Marichi",
+            "description":[
+                "Developed Shiksha Marichi, an edtech platform using Node.js and React.js to enhance the learning experience through seamless technology integration.",             
+                "Implemented role-based authentication (RBAC) for secure, personalized access for teachers and students.",
+                "Built a cloud-based course upload system using Cloudinary, allowing teachers to upload media content"
+            ],
+            "thumbnail":"/shiksha_maricha.png",
+            "time":"Sep 2024 - Dec 2024",
+            "tech_stack":[
+                "React","Node","Cloudinary","Express","MySQL","Sequelize"
+            ],
+            "code":"https://github.com/Avinashs7/Shiksha-Marichi",
+            "demo":""
+        },
+        {
+            "name":"Unmanned EV",
+            "description":[
+                "Automated a 4-wheel campus buggy using microcontrollers, servos, and actuators for autonomous acceleration, braking, and obstacle avoidance.",
+                "Integrated object detection and image processing to enable automatic stopping when obstacles are detected.",
+                "Designed for 4-passenger capacity, ensuring safe, efficient, and reliable autonomous campus transportation."
+            ],
+            "thumbnail":"",
+            "time":"Sep 2024 - Dec 2024",
+            "tech_stack":[
+                "C","Python","Arduino","OpenCV","Raspberry Pi"
+            ],
+            "code":"",
+            "demo":""
+        }
+    ],
+    "education":[
+        {
+            "institute":"RNS Institute Of Technology",
+            "qualification":"B.E in Computer Science",
+            "description":"",
+            "time":"2021 - 2025"
+        },
+        {
+            "institute":"Sri Aurobindo Pre University(IND) College",
+            "qualification":"Pre University(PCMB)",
+            "description":"",
+            "time":"2019 - 2021"
+        }
+    ],
+    "achievements":[
+        {
+            "name":"Hackathon Winner",
+            "description":"Secured First Place for building AI assistive Dynamic Advertisement asset generator tool",
+            "time":"2024",
+            "institute":"Rocketium"
+        },
+        {
+            "name":"Second Runner up",
+            "description":"Secured 2nd Runner Up for building Dynamic object detection under home park theme system using traditional image processing",
+            "time":"2023",
+            "institute":"Bosch Global Software Technology"
+        },
+        {
+            "description":"Qualified in International collegiate programming contest prelims and participated in Amrithapuri Regionals",
+            "name":"ICPC 2024 Amrithapuri Regionlist",
+            "time":"2024",
+            "institute":"International Collegiate Programming Contest"
+        }
+    ]
+
+}
